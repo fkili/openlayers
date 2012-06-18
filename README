@@ -1,0 +1,4 @@
+#################for generating ui 
+pyuic4 openlayers_ovwidgetbase.ui -o ui_openlayers_ovwidgetbase.py
+#################for generate ressource for translation
+pyrcc4 resources_tr.qrc -o resources_tr_rc.py
