@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="plugins/i18n">
+    <file>fr_FR.qm</file>
+  </qresource>
+</RCC>
